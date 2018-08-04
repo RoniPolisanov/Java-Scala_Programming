@@ -1,0 +1,35 @@
+*{
+  margin: 0px auto;
+  padding: 0px;
+}
+
+.pic{
+  height: 300px;
+  width: 300px;
+  border: solid 1.5px black;
+}
+
+a{
+  text-decoration: none !important;
+}
+
+a .name{
+  font-size: 24px;
+  text-decoration: none !important;
+  color: #000000;
+  line-height: 150px;
+}
+
+a .name:hover{
+  color: #ffffff !important;
+}
+
+.coupon {
+  display: block;
+  width: 100%;
+  background-color: gray;
+}
+.table-striped tbody tr {
+  line-height: 75px;
+}
+
